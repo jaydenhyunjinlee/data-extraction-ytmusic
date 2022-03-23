@@ -130,5 +130,8 @@ dmypy.json
 
 # Custom
 conf/headers_auth.json
-data/
 dags/__pycache__/
+lib/
+.DS_Store
+pyvenv.cfg
+
